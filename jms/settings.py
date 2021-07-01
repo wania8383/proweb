@@ -16,7 +16,7 @@ SECRET_KEY = 'v7)ouo@=dhswvnfs!@o$v07^m#+2l^1+c#n%bel2eqn!5f^fx^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['jmsweb.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['jmspro.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
