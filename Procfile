@@ -1,1 +1,1 @@
-main: gunicorn jws.wsgi 
+main:gunicorn jws.wsgi 
